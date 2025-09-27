@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ricardo Soares
+# Hi, I'm Ricardo Soares
 
-Researcher • Developer • Innovator in AI & High-Performance Computing  
+Undergrad Researcher • Developer • Innovator in AI & High-Performance Computing  
 
 I am passionate about building **efficient, powerful, and adaptive systems**.  
 My work blends **theory, practical creations, and experimentation** — from edge AI deployments to optimization algorithms for real-world scheduling, resource allocation and decision-making.  
@@ -12,11 +12,8 @@ My work blends **theory, practical creations, and experimentation** — from edg
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ri_soares@id.uff.br">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://orcid.org/your-orcid-id" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </p>
 
@@ -58,13 +55,13 @@ My work blends **theory, practical creations, and experimentation** — from edg
 ## 💼 Professional Experience
 
 - **AI Intern** @ [Grupo Vilarejo](https://www.grupovilarejo.com.br/)  
-  *Feb 2025 – Present*  
+  *Sep 2025 – Present*  
   Developing **artificial intelligence strategies** to improve **logistics and operations** in the hospitality and construction sectors.  
   Focus on optimization, forecasting, and decision-support systems that bridge **AI research and real-world industry challenges**.
 
 ## 📚 Publications
 - **📄 Fault-Resilient Adaptive Offloading with Priority Buffers for Early-Exit Deep Neural Networks**  
-  ![ISSREW 2025 - Sao Paulo](https://img.shields.io/badge/Conference-2025-blue)
+  ![ISSREW 2025 - Sao Paulo](https://www.shiftworkshop.net/program)
 ---
 
 

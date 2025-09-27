@@ -50,6 +50,15 @@ My work blends **theory, practical creations, and experimentation** — from edg
 
 ---
 
+## 📚 Publications
+
+- **📄 Fault-Resilient Adaptive Offloading with Priority Buffers for Early-Exit Deep Neural Networks**  
+  *ISSREW 2025 — São Paulo*  
+  [🔗 Workshop Program](https://www.shiftworkshop.net/program)  
+  *In collaboration with: Roberto G. Pacheco, Pedro C. Silveira, Daniel S. Menaschè, Miguel E. M. Campista*
+
+---
+
 ## 💼 Professional Experience
 
 - **AI Intern** @ [Grupo Vilarejo](https://www.grupovilarejo.com.br/)  
@@ -57,9 +66,6 @@ My work blends **theory, practical creations, and experimentation** — from edg
   Developing **artificial intelligence strategies** to improve **logistics and operations** in the hospitality and construction sectors.  
   Focus on optimization, forecasting, and decision-support systems that bridge **AI research and real-world industry challenges**.
 
-## 📚 Publications
-- **📄 Fault-Resilient Adaptive Offloading with Priority Buffers for Early-Exit Deep Neural Networks**  
-  ![ISSREW 2025 - Sao Paulo](https://www.shiftworkshop.net/program)
 ---
 
 

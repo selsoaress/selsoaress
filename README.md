@@ -9,7 +9,7 @@ My work blends **theory, practical creations, and experimentation** — from edg
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/richie-soares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ri_soares@id.uff.br">

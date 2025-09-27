@@ -61,7 +61,7 @@ My work blends **theory, practical creations, and experimentation** — from edg
 
 ## 💼 Professional Experience
 
-- **AI Intern** @ [Grupo Vilarejo](https://www.grupovilarejo.com.br/)  
+- **Research and Development (R&D) Intern** @ [Grupo Vilarejo](https://www.grupovilarejo.com.br/)  
   *Sep 2025 – Present*  
   Developing **artificial intelligence strategies** and **Adaptative Business Intelligence** to improve **logistics and operations** in the hospitality and construction sectors. 
   Focus on optimization, forecasting, and decision-support systems that bridge **academic research and real-world industry challenges**.

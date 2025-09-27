@@ -1,6 +1,6 @@
 # Hi, I'm Ricardo/Selene Soares
 
-Undergrad Researcher • Developer • Innovator in AI & High-Performance Computing  
+Undergrad Researcher • Developer • Innovator in operations research, AI and computing infrastructure. 
 
 I am passionate about building **efficient, powerful, and adaptive systems**.  
 My work blends **theory, practical creations, and experimentation** — from edge AI deployments to optimization algorithms for real-world scheduling, resource allocation and decision-making.  

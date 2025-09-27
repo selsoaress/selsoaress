@@ -43,10 +43,10 @@ My work blends **theory, practical creations, and experimentation** — from edg
 ---
 
 ## 🚀 Research & Industry Interests
-- 🧠 **Artificial Intelligence**: early-exit deep neural networks (EEDNNs), edge inference, adaptive ML systems   
-- 📊 **Optimization & Decision-Making**: scheduling and routing algorithms, heuristics (ILS, greedy, local search, genetic algorithms), reinforcement learning  
-- ☁️ **Edge–Cloud Systems**: offloading strategies, adaptive APIs, priority queues, UCB-driven threshold tuning  
-- 📈 **Data Science & Forecasting**: time series, commodities prediction, logistics  
+- 🧠 **Artificial Intelligence**: early-exit deep neural networks (EEDNNs), edge inference, adaptive ML systems.
+- 📊 **Optimization & Decision-Making**: scheduling and routing algorithms, heuristics (ILS, greedy, local search, genetic algorithms), reinforcement learning.  
+- ☁️ **Edge–Cloud Systems**: offloading strategies, adaptive APIs. 
+- 📈 **Data Science & Forecasting**: adaptative business intelligence, time series, commodities prediction, logistics.
 
 ---
 

@@ -19,8 +19,6 @@ My work blends **theory, practical creations, and experimentation** — from edg
 
 ---
 
----
-
 ## ⚡ Tech Stack
 
 <p align="center">

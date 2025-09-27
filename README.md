@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo Soares
+# Hi, I'm Ricardo/Selene Soares
 
 Undergrad Researcher • Developer • Innovator in AI & High-Performance Computing  
 

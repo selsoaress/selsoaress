@@ -1,5 +1,5 @@
 # Selene Soares  
-**Data Scientist · Researcher · Engineer**  
+**Data Scientist · Undergraduate Researcher · Operations Research Analyst**  
 *Also known as Ricardo Soares*  
 *Non-binary (they/them)*
 

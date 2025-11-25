@@ -3,7 +3,7 @@
 *Also known as Ricardo Soares*  
 *Non-binary (they/them)*
 
-Professional focused on **predictive modeling**, **optimization**, and **intelligent systems**. I work at the intersection of academic research and real-world applications, developing solutions that combine **machine learning**, **advanced heuristics**, **inference infrastructure**, and **data engineering** to address complex challenges in logistics, operations, and decision-making.
+Professional focused on **predictive modeling**, **GPU-accelerated computation**, **optimization**, and **intelligent systems**. I work at the intersection of academic research and real-world engineering, developing solutionsin the fields of **machine learning**, **advanced heuristics**, **inference infrastructure**, **parallel computing**, and **data engineering** to address complex challenges in logistics, operations, and decision-making.
 
 ---
 
@@ -35,6 +35,8 @@ Professional focused on **predictive modeling**, **optimization**, and **intelli
   <img src="https://img.shields.io/badge/MLflow-000000?logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OR--Tools-4285F4?logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCL-009639?logo=opencl&logoColor=white"/>
 </p>
 
 ---
@@ -42,18 +44,20 @@ Professional focused on **predictive modeling**, **optimization**, and **intelli
 ## 🧭 Core Expertise
 - **Data Science & Machine Learning:** predictive modeling, time series, regression, ensemble methods.  
 - **Deep Learning:** adaptive inference, early-exit DNNs, edge and cloud deployment.  
-- **Optimization & Operations Research:** ILS, local search, GA, scheduling, routing.  
-- **Intelligent Systems:** adaptive offloading, multi-armed bandits (UCB), priority-based decision algorithms.  
+- **GPU & Parallel Computing:** CUDA, OpenCL, GPU kernels, performance tuning, memory optimization.  
+- **Intelligent Systems:** online learning, reinforcement learning, multi-armed bandits.  
 - **Experiment Engineering:** reproducible pipelines, data versioning, MLflow, containerized workflows.
+- **Optimization & Operations Research:** ILS, local search, GA, scheduling, routing.
 
 ---
 
 ## 🚀 Research Interests
-- Efficient inference with **early-exit DNNs**.  
-- **Forecasting** and time-series modeling for logistics and commodity markets.  
+- **GPU-efficient deep learning**, model acceleration, and hybrid CPU–GPU inference.  
+- Efficient inference with **early-exit DNNs** for edge and distributed systems.  
+- **Forecasting and time-series modeling** for logistics and commodity/digital markets.  
 - **Metaheuristics** for complex operations optimization (job shop, flow shop, allocation).  
 - **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.  
-- **TinyML** for constrained computational environments.
+- **TinyML** and low-power intelligent embedded systems.
 
 ---
 
@@ -62,7 +66,7 @@ Professional focused on **predictive modeling**, **optimization**, and **intelli
 ### **Research and Development (R&D) Intern — Grupo Vilarejo**  
 *Sep 2025 – Present*  
 Developing **Adaptive Business Intelligence** solutions for logistics and operations in the hospitality sector.  
-Responsible for forecasting pipelines, optimization algorithms, and decision-support systems that integrate applied research with industry needs.
+Responsible for forecasting pipelines, optimization algorithms, GPU-accelerated experiments, and decision-support systems that integrate applied research with industry needs.
 
 ---
 
@@ -76,8 +80,10 @@ With Roberto G. Pacheco, Pedro C. Silveira, Daniel S. Menaschè and Miguel E. M.
 
 ## 🔎 Professional Approach
 - Bridging **applied research** with deployable, maintainable systems.  
-- Clear definition and evaluation of **operational trade-offs** (latency, cost, accuracy).  
+- Designing and evaluating **operational and computational trade-offs** (latency, cost, accuracy, energy).  
+- Focus on **scalable architectures**, **performance engineering**, and **evidence-based decision-making**.
 
 ---
+
 
 

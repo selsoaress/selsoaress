@@ -70,7 +70,7 @@ Responsible for forecasting pipelines, optimization algorithms, GPU-accelerated 
 
 ---
 
-## 📚 Publication
+## 📚 Publications
 **Fault-Resilient Adaptive Offloading with Priority Buffers for Early-Exit Deep Neural Networks**  
 *ISSREW 2025 — São Paulo*  
 [🔗 Workshop Program](https://www.shiftworkshop.net/program)  

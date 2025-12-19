@@ -1,5 +1,7 @@
 # Selene Soares  
-**Data Scientist · Undergraduate Researcher** *Also known as Ricardo Soares* *Non-binary (they/them)*
+**Data Scientist · Undergraduate Researcher**
+*Also known as Ricardo Soares*
+*Non-binary (they/them)*
 
 Professional focused on **predictive modeling**, **Generative AI**, **optimization**, and **intelligent systems**. I work at the intersection of academic research and real-world engineering, developing solutions in the fields of **machine learning**, **agentic workflows**, **LLM orchestration**, and **data engineering** to address complex challenges in logistics, operations, and decision-making.
 

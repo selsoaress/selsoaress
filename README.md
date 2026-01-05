@@ -29,13 +29,10 @@ I work at the intersection of academic research and real-world engineering, deve
   <img src="https://img.shields.io/badge/LangGraph-FF4B4B?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statsmodels-2B2D42?logo=statsmodels&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-000000?logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OR--Tools-4285F4?logo=google&logoColor=white"/>
 </p>
 

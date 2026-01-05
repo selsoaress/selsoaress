@@ -7,6 +7,18 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ---
 
+## 📊 GitHub Overview
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/richie-soares" target="_blank">
@@ -15,7 +27,7 @@ I work at the intersection of academic research and real-world engineering, deve
   <a href="mailto:ri_soares@id.uff.br">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/SEU_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
 </p>
@@ -42,12 +54,12 @@ I work at the intersection of academic research and real-world engineering, deve
 ---
 
 ## 🧭 Core Expertise
-- **Agentic Workflows & LLMs:** building stateful multi-agent systems, RAG pipelines, and graph-based control flows using **LangChain** and **LangGraph**.
+- **Agentic Workflows & LLMs:** stateful multi-agent systems, RAG pipelines, and graph-based control flows using **LangChain** and **LangGraph**.
 - **Data Science & Machine Learning:** predictive modeling, time series, regression, and ensemble methods.
 - **Deep Learning:** adaptive inference, early-exit DNNs, and edge/cloud deployment strategies.
 - **Intelligent Systems:** online learning, reinforcement learning, and multi-armed bandits.
 - **Experiment Engineering:** reproducible pipelines, data versioning, MLflow, and containerized workflows.
-- **Optimization & Operations Research:** ILS, local search, GA, scheduling, and routing.
+- **Optimization & Operations Research:** ILS, local search, genetic algorithms, scheduling, and routing.
 
 ---
 
@@ -68,6 +80,18 @@ I work at the intersection of academic research and real-world engineering, deve
 
 Developing **Adaptive Business Intelligence** solutions for logistics and operations in the hospitality sector.  
 Responsible for forecasting pipelines, optimization algorithms, AI-driven experiments, and decision-support systems that integrate applied research with industry needs.
+
+---
+
+## 🎓 Academic & Competitive Programming Experience
+
+### **ICPC Coach (Volunteer) — Universidade Federal Fluminense (UFF)**  
+*2025*
+
+- Mentored undergraduate teams for **ICPC-style competitive programming** contests.
+- Conducted training sessions on **algorithms, data structures, graph theory, and optimization**.
+- Supported problem-solving strategy, code review, and contest preparation.
+- Focus on translating theoretical computer science into efficient, contest-ready implementations.
 
 ---
 

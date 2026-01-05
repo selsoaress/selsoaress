@@ -9,12 +9,12 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selsoaress&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selsoaress&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=selsoaress&theme=transparent&hide_border=true"/>
 </p>
 
 ---

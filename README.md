@@ -7,14 +7,6 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ---
 
-## 📊 GitHub Overview
-
-[![Top Langs](github-readme-stats.vercel.app)](
-https://github.com/selsoaress/github-readme-stats
-)
-
----
-
 ## 🌐 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/richie-soares" target="_blank">
@@ -87,7 +79,7 @@ Responsible for forecasting pipelines, optimization algorithms, AI-driven experi
 - Mentored undergraduate teams for **ICPC-style competitive programming** contests.
 - Conducted training sessions on **algorithms, data structures, graph theory, and optimization**.
 - Supported problem-solving strategy, code review, and contest preparation.
-- Focus on translating theoretical computer science into efficient, contest-ready implementations.
+- Emphasis on translating theoretical computer science into efficient, contest-ready implementations.
 
 ---
 

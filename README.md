@@ -42,22 +42,19 @@ I work at the intersection of academic research and real-world engineering, deve
 ---
 
 ## 🧭 Core Expertise
-- **Agentic Workflows & LLMs:** stateful multi-agent systems, RAG pipelines, and graph-based control flows using **LangChain** and **LangGraph**.
 - **Data Science & Machine Learning:** predictive modeling, time series, regression, and ensemble methods.
 - **Deep Learning:** adaptive inference, early-exit DNNs, and edge/cloud deployment strategies.
+- **Agentic Workflows & LLMs:** stateful multi-agent systems, RAG pipelines, and graph-based control flows using **LangChain** and **LangGraph**.
 - **Intelligent Systems:** online learning, reinforcement learning, and multi-armed bandits.
-- **Experiment Engineering:** reproducible pipelines, data versioning, MLflow, and containerized workflows.
 - **Optimization & Operations Research:** ILS, local search, genetic algorithms, scheduling, and routing.
 
 ---
 
 ## 🚀 Research Interests
-- **Autonomous Agents**, cyclic graph architectures, and human-in-the-loop workflows.
 - Efficient inference with **early-exit DNNs** for distributed systems.
 - **Forecasting and time-series modeling** for logistics and commodity/digital markets.
 - **Metaheuristics** for complex operations optimization (job shop, flow shop, allocation).
 - **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.
-- **TinyML** and low-power intelligent embedded systems.
 
 ---
 

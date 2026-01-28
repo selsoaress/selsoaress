@@ -11,7 +11,6 @@ I work at the intersection of academic research and real-world engineering, deve
 
 - **Data Science & Machine Learning** for predictive modeling, pattern recognition and optimization.
 - **Forecasting Analysis and time-series modeling** for business processes, logistics and commodity/digital markets.
-- **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.
 
 ---
 

@@ -2,8 +2,8 @@
 **Data Scientist · Undergraduate Researcher**  
 *Also known as Ricardo Soares · Non-binary (they/them)*
 
-Professional focused on **predictive modeling**, **Generative AI**, **optimization**, and **intelligent systems**.  
-I work at the intersection of academic research and real-world engineering, developing solutions in **machine learning**, **agentic workflows**, **LLM orchestration**, and **data engineering** to address complex challenges in logistics, operations, and decision-making.
+Professional focused on **predictive modeling**, **optimization**, and **intelligent systems**.  
+I work at the intersection of academic research and real-world engineering, developing solutions in **machine learning**, **data Science** and **data engineering** to address complex challenges in business analytics, decision-making, and operations.
 
 ---
 
@@ -25,14 +25,10 @@ I work at the intersection of academic research and real-world engineering, deve
 ## ⚡ Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statsmodels-2B2D42?logo=statsmodels&logoColor=white"/>
   <img src="https://img.shields.io/badge/OR--Tools-4285F4?logo=google&logoColor=white"/>
 </p>
 
@@ -41,7 +37,6 @@ I work at the intersection of academic research and real-world engineering, deve
 ## 🧭 Core Expertise
 - **Data Science & Machine Learning:** predictive modeling, time series, regression, and ensemble methods.
 - **Deep Learning:** adaptive inference, early-exit DNNs, and edge/cloud deployment strategies.
-- **Agentic Workflows & LLMs:** stateful multi-agent systems, RAG pipelines, and graph-based control flows using **LangChain** and **LangGraph**.
 - **Intelligent Systems:** online learning, reinforcement learning, and multi-armed bandits.
 - **Optimization & Operations Research:** ILS, local search, genetic algorithms, scheduling, and routing.
 
@@ -52,41 +47,3 @@ I work at the intersection of academic research and real-world engineering, deve
 - **Forecasting and time-series modeling** for logistics and commodity/digital markets.
 - **Metaheuristics** for complex operations optimization (job shop, flow shop, allocation).
 - **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.
-
----
-
-## 💼 Professional Experience
-
-### **Research and Development (R&D) Intern — Grupo Vilarejo**  
-*Sep 2025 – Present*
-
-Developing **Adaptive Business Intelligence** solutions for logistics and operations in the hospitality sector.  
-Responsible for forecasting pipelines, optimization algorithms, AI-driven experiments, and decision-support systems that integrate applied research with industry needs.
-
----
-
-## 🎓 Academic & Competitive Programming Experience
-
-### **ICPC Coach (Volunteer) — Universidade Federal Fluminense (UFF)**  
-*2025*
-
-- Mentored undergraduate teams for **ICPC-style competitive programming** contests.
-- Conducted training sessions on **algorithms, data structures, graph theory, and optimization**.
-- Supported problem-solving strategy, code review, and contest preparation.
-- Emphasis on translating theoretical computer science into efficient, contest-ready implementations.
-
----
-
-## 📚 Publications
-**Fault-Resilient Adaptive Offloading with Priority Buffers for Early-Exit Deep Neural Networks**  
-*ISSREW 2025 — São Paulo*  
-[🔗 Workshop Program](https://www.shiftworkshop.net/program)
-
-With Roberto G. Pacheco, Pedro C. Silveira, Daniel S. Menaschè, and Miguel E. M. Campista.
-
----
-
-## 🔎 Professional Approach
-- Bridging **applied research** with deployable, maintainable systems.
-- Designing and evaluating **operational trade-offs** (latency, cost, accuracy, energy).
-- Focus on **scalable architectures**, **workflow orchestration**, and **evidence-based decision-making**.

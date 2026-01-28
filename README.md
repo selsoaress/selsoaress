@@ -1,10 +1,8 @@
 # Selene Soares  
 **Data Scientist · Undergraduate Researcher**  
-*Also known as Ricardo Soares · Non-binary (they/them)*
+*Also known as Ricardo Soares · Non-binary (they/them)*  
 
-Professional focused on **predictive modeling**, **optimization**, and **intelligent systems**.  
-
-Data-driven professional dedicated to uncovering business insights. Passionate about team collaboration and solving complex challenges with data as a solid foundation.
+Data-driven professional specializing in predictive modeling, optimization, and intelligent systems. Dedicated to uncovering deep business insights and solving complex challenges through collaboration, with data as my foundation.
 
 
 

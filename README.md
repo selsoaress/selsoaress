@@ -34,16 +34,8 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ---
 
-## 🧭 Core Expertise
-- **Data Science & Machine Learning:** predictive modeling, time series, regression, and ensemble methods.
-- **Deep Learning:** adaptive inference, early-exit DNNs, and edge/cloud deployment strategies.
-- **Intelligent Systems:** online learning, reinforcement learning, and multi-armed bandits.
-- **Optimization & Operations Research:** ILS, local search, genetic algorithms, scheduling, and routing.
+## 🚀 My Interests and Expertise
 
----
-
-## 🚀 Research Interests
-- Efficient inference with **early-exit DNNs** for distributed systems.
-- **Forecasting and time-series modeling** for logistics and commodity/digital markets.
-- **Metaheuristics** for complex operations optimization (job shop, flow shop, allocation).
+- **Data Science & Machine Learning** for predictive modeling, pattern recognition and optimization.
+- **Forecasting Analysis and time-series modeling** for business processes, logistics and commodity/digital markets.
 - **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.

@@ -5,6 +5,14 @@
 Professional focused on **predictive modeling**, **optimization**, and **intelligent systems**.  
 I work at the intersection of academic research and real-world engineering, developing solutions in **machine learning**, **data Science** and **data engineering** to address complex challenges in business analytics, decision-making, and operations.
 
+
+
+## My Interests and Expertise
+
+- **Data Science & Machine Learning** for predictive modeling, pattern recognition and optimization.
+- **Forecasting Analysis and time-series modeling** for business processes, logistics and commodity/digital markets.
+- **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.
+
 ---
 
 ## 🌐 Contact
@@ -32,10 +40,4 @@ I work at the intersection of academic research and real-world engineering, deve
   <img src="https://img.shields.io/badge/OR--Tools-4285F4?logo=google&logoColor=white"/>
 </p>
 
----
 
-## 🚀 My Interests and Expertise
-
-- **Data Science & Machine Learning** for predictive modeling, pattern recognition and optimization.
-- **Forecasting Analysis and time-series modeling** for business processes, logistics and commodity/digital markets.
-- **Edge–cloud hybrid systems** with adaptive, context-aware decision logic.

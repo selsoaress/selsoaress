@@ -3,7 +3,8 @@
 *Also known as Ricardo Soares · Non-binary (they/them)*
 
 Professional focused on **predictive modeling**, **optimization**, and **intelligent systems**.  
-I work at the intersection of academic research and real-world engineering, developing solutions in **machine learning**, **data Science** and **data engineering** to address complex challenges in business analytics, decision-making, and operations.
+
+Data-driven professional dedicated to uncovering business insights. Passionate about team collaboration and solving complex challenges with data as a solid foundation.
 
 
 
@@ -14,7 +15,7 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ---
 
-## 🌐 Contact
+##  Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/richie-soares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
@@ -29,7 +30,7 @@ I work at the intersection of academic research and real-world engineering, deve
 
 ---
 
-## ⚡ Technical Skills
+##  Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>

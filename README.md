@@ -16,20 +16,13 @@ Focused on extracting business insights and solving complex problems through dat
 
 ## Contact
 <p align="center">
-  <a href="mailto:selenesoares11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Tech Stack
-<p align="center">
 
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
 
   <br>
 

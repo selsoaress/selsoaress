@@ -47,7 +47,7 @@ Focused on extracting business insights and solving complex problems using data-
   <!-- MLOps / Deployment -->
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
 
 </p>
-

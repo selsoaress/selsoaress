@@ -32,6 +32,7 @@ Focused on extracting business insights and solving complex problems using data-
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
 
@@ -47,6 +48,8 @@ Focused on extracting business insights and solving complex problems using data-
   <!-- MLOps / Deployment -->
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
 

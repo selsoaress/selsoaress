@@ -1,6 +1,6 @@
 # Selene Soares  
 **Data Scientist · Undergraduate Researcher**  
-*Also known as Ricardo Soares · Non-binary (they/them)*
+*Formerly known as Ricardo Soares · Non-binary (they/them)*
 
 Data Scientist and Machine Learning Engineer specializing in optimization and intelligent systems.  
 Focused on extracting business insights and solving complex problems using data-driven models.

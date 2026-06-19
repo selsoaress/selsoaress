@@ -38,7 +38,6 @@ Data Scientist and Machine Learning Engineer specializing in AI Infrastructure, 
   <img src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <br>
   <!-- ML -->
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?logo=xgboost&logoColor=white"/>
@@ -48,13 +47,11 @@ Data Scientist and Machine Learning Engineer specializing in AI Infrastructure, 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?logo=langchain&logoColor=white"/>
-  <br>
   <!-- Data Engineering -->
   <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prefect-024DFD?logo=prefect&logoColor=white"/>
   <img src="https://img.shields.io/badge/Modin-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAPIDS-76B900?logo=nvidia&logoColor=white"/>
-  <br>
   <!-- Visualization & Geospatial -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
@@ -62,7 +59,6 @@ Data Scientist and Machine Learning Engineer specializing in AI Infrastructure, 
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Folium-77B829?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white"/>
-  <br>
   <!-- MLOps / Deployment -->
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>

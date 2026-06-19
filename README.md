@@ -45,6 +45,9 @@ Data Scientist and Machine Learning Engineer specializing in AI Infrastructure, 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vowpal%20Wabbit-5C4EE5?logo=vowpalwabbit&logoColor=white"/>
   <img src="https://img.shields.io/badge/OR--Tools-4285F4?logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?logo=langchain&logoColor=white"/>
   <br>
   <!-- Data Engineering -->
   <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?logo=python&logoColor=white"/>

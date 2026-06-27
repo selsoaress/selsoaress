@@ -1,15 +1,15 @@
 # Selene Soares
-**Data Scientist · ML Engineer · Undergraduate Researcher**  
+**Data Scientist · BI Analyst · Undergraduate Researcher**  
 *Also known as Ricardo Soares · Non-binary (they/them)*
 
-Data Scientist and Machine Learning Engineer specializing in AI Infrastructure, business intelligence, and operations research. Focused on building end-to-end data pipelines, geospatial analysis, and deploying production-grade ML systems that translate complex data into actionable decisions.
+Data Scientist and BI Analyst specializing in digital marketing, AI Infrastructure and operations research. Focused on building end-to-end data pipelines, geospatial analysis, and deploying production-grade ML systems that translate complex data into actionable decisions.
 
 ---
 
 ## Interests
 
-- Intelligent offloading and federated learning
 - Data science & machine learning for business, marketing and logistics
+- Intelligent offloading and federated learning
 - Reinforcement Learning
 - Operations Research & combinatorial optimization
 - Warehouse Operations Management

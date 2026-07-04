@@ -1,6 +1,5 @@
 # Selene Soares
 **Data Scientist · BI Analyst · Undergraduate Researcher**  
-*Formerly known as Ricardo Soares · Non-binary (they/them)*
 
 Data Scientist and BI Analyst specializing in digital marketing, AI Infrastructure and operations research. Focused on building end-to-end data pipelines, geospatial analysis, and deploying production-grade ML systems that translate complex data into actionable decisions.
 

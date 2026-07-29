@@ -1,23 +1,23 @@
 # Selene Soares
-**Data Scientist · BI Analyst · Undergraduate Researcher**  
+**Analista de Dados · Estudante de Ciência da Computação (UFF) · Pesquisa em Data Science & ML**
 
-Data Scientist and BI Analyst specializing in digital marketing, AI Infrastructure and operations research. Focused on building end-to-end data pipelines, geospatial analysis, and deploying production-grade ML systems that translate complex data into actionable decisions.
+Estudante de Ciência da Computação e Analista de Dados com foco em construir pipelines de dados ponta a ponta, análise geoespacial e sistemas de machine learning aplicados a marketing, logística e operações. Interessada em pesquisa operacional, otimização e infraestrutura de IA.
 
 ---
 
-## Interests
+## Interesses
 
-- Data science & machine learning for business, marketing and logistics
-- Intelligent offloading and federated learning
+- Ciência de dados e machine learning aplicados a negócios, marketing e logística
+- Pesquisa operacional e otimização combinatória
+- Análise e visualização geoespacial
 - Reinforcement Learning
-- Operations Research & combinatorial optimization
-- Warehouse Operations Management
+- Intelligent offloading e federated learning
 - Applied Game Theory
-- Geospatial analysis and visualization
+- Warehouse Operations Management
 
 ---
 
-## Technologies
+## Tecnologias
 
 <p align="center">
   <!-- Core -->

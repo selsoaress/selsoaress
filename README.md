@@ -1,5 +1,5 @@
 # Selene Soares
-**Analista de Dados · Estudante de Ciência da Computação (UFF) · Pesquisa em Data Science & ML**
+**Cientista de Dados · Estudante de Ciência da Computação (UFF) · Pesquisa em Data Science & ML**
 
 Estudante de Ciência da Computação e Analista de Dados com foco em construir pipelines de dados ponta a ponta, análise geoespacial e sistemas de machine learning aplicados a marketing, logística e operações. Interessada em pesquisa operacional, otimização e infraestrutura de IA.
 
